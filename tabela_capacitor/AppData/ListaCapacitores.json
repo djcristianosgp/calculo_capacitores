@@ -1,0 +1,392 @@
+﻿[
+    {
+        "frequencia": "80",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "1000",
+                    "indutor": "4,1"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "500",
+                    "indutor": "8,2"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "250",
+                    "indutor": "16"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "100",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "800",
+                    "indutor": "3,1"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "400",
+                    "indutor": "6,2"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "200",
+                    "indutor": "12"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "130",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "600",
+                    "indutor": "3,1"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "300",
+                    "indutor": "4,7"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "200",
+                    "indutor": "10"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "200",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "400",
+                    "indutor": "1,6"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "200",
+                    "indutor": "3,3"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "100",
+                    "indutor": "6,8"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "260",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "300",
+                    "indutor": "1,2"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "150",
+                    "indutor": "2,4"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "75",
+                    "indutor": "4,7"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "400",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "200",
+                    "indutor": "0,8"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "100",
+                    "indutor": "1,6"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "50",
+                    "indutor": "3,3"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "600",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "133",
+                    "indutor": "0,5"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "68",
+                    "indutor": "1"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "33",
+                    "indutor": "2"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "800",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "100",
+                    "indutor": "0,41"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "50",
+                    "indutor": "0,82"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "25",
+                    "indutor": "1,6"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "1000",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "78",
+                    "indutor": "0,31"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "39",
+                    "indutor": "0,62"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "20",
+                    "indutor": "1,2"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "1200",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "68",
+                    "indutor": "0,25"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "33",
+                    "indutor": "0,51"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "15",
+                    "indutor": "1"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "1800",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "47",
+                    "indutor": "0,16"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "22",
+                    "indutor": "0,33"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "10",
+                    "indutor": "0,68"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "4000",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "22",
+                    "indutor": "0,08"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "10",
+                    "indutor": "0,16"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "5",
+                    "indutor": "0,33"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "6000",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "15",
+                    "indutor": "0,05"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "6,8",
+                    "indutor": "0,1"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "3,3",
+                    "indutor": "0,2"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "9000",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "10",
+                    "indutor": "0,03"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "4,7",
+                    "indutor": "0,07"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "2,2",
+                    "indutor": "0,15"
+                }
+            }
+        ]
+    },
+    {
+        "frequencia": "12000",
+        "impedancias": [
+            {
+                "impedancia": "2",
+                "dados": {
+                    "capacitor": "6,8",
+                    "indutor": "0,02"
+                }
+            },
+            {
+                "impedancia": "4",
+                "dados": {
+                    "capacitor": "3,3",
+                    "indutor": "0,05"
+                }
+            },
+            {
+                "impedancia": "8",
+                "dados": {
+                    "capacitor": "1,6",
+                    "indutor": "0,1"
+                }
+            }
+        ]
+    }
+]
